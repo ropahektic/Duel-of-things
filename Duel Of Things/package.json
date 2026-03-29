@@ -1,0 +1,53 @@
+{
+  "name": "anime-duel",
+  "version": "1.0.0",
+  "description": "Discord bot minigame with anime characters",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node parser.js",
+    "parse-anime": "node parser-anilist.js",
+    "parse-people": "node parser-pantheon.js",
+    "parse-actors": "node parser-ranker.js",
+    "parse-games": "node parser-games.js",
+    "parse-games-google": "node parser-games-google.js",
+    "parse-games-metacritic": "node parser-games-metacritic.js",
+    "parse-movies": "node parser-movies-tmdb.js",
+    "parse-cities": "node parser-cities.js",
+    "filter-cities-china": "node filter-cities-china.js",
+    "parse-cities-images": "node parser-cities-images.js",
+    "parse-cities-images-pexels": "node parser-cities-images-pexels.js",
+    "parse-cities-images-puppeteer": "node parser-cities-images-puppeteer.js",
+    "parse-epic7": "node parser-epic7.js",
+    "parse-epic7-images": "node parser-epic7-images.js",
+    "organize-cities-by-country": "node organize-cities-by-country.js",
+    "parse-instagram-influencers": "node parser-instagram-influencers.js",
+    "parse-instagram-pdf": "node parser-instagram-pdf.js",
+    "parse-instagram-images": "node parser-instagram-images-puppeteer.js",
+    "parse-cars-from-sql": "node parser-cars-from-sql.js",
+    "deduplicate-cars": "node deduplicate-cars.js",
+    "deduplicate-cars-by-model": "node deduplicate-cars-by-model.js",
+    "prune-cars-without-images": "node prune-cars-without-images.js",
+    "parse-cars-images": "node parser-cars-images-puppeteer.js",
+    "clean-shows-titles": "node clean-shows-titles.js",
+    "parse-shows-imdb-images": "node parser-shows-imdb-images-puppeteer.js",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "anime"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.2.0",
+    "pdf-parse": "^2.4.5",
+    "puppeteer": "^24.15.0",
+    "sharp": "^0.33.2"
+  }
+}

@@ -1,0 +1,1718 @@
+Pick Rate	Win Rate	Ban Rate	Most-Used Set	Weak against	Good synergy with
+c2124Boss Arunka	36.63%	48.82%	17.65%	
+set_counter
+set_immune
+c2001
+c1172
+c2113
+c2001
+c1168
+c2113
+c2001Genesis Ras	36.41%	52.44%	14.76%	
+set_cri_dmg
+set_max_hp
+c2124
+c1172
+c2113
+c2124
+c2113
+c1168
+c1168Rinak	28.4%	49.11%	21.06%	
+set_chase
+set_speed
+c2001
+c2124
+c1172
+c2124
+c2001
+c2113
+c2113Empyrean Ilynav	26.83%	49.83%	11.67%	
+set_immune
+set_shield
+c2124
+c2001
+c1172
+c2001
+c2124
+c1168
+c1172Frieren	23.68%	53.84%	20.44%	
+set_speed
+set_torrent
+c2001
+c2124
+c1168
+c2124
+c2001
+c1168
+c2131School Nurse Yulha	22.43%	53.23%	18.8%	
+set_max_hp
+set_speed
+c2124
+c2001
+c1172
+c2001
+c1117
+c2124
+c1117Belian	22.22%	51.07%	12.98%	
+set_counter
+set_immune
+c2001
+c2124
+c2113
+c2124
+c2131
+c2001
+c2076Shepherd of the Dark Diene	19.85%	56.08%	24.71%	
+set_max_hp
+set_speed
+c2001
+c2124
+c1168
+c2001
+c1133
+c1168
+c6005Lady of the Scales	17.52%	58.08%	24.49%	
+set_res
+set_speed
+c2124
+c2001
+c2113
+c2001
+c1172
+c1168
+c2128Bystander Hwayoung	14.38%	47.31%	24.63%	
+set_counter
+set_penetrate
+c2001
+c2124
+c2113
+c2124
+c2001
+c2113
+c1133Zio	14.21%	41.96%	12.88%	
+set_penetrate
+set_speed
+c2001
+c1168
+c2124
+c2076
+c2001
+c2124
+c1176Setsuka	14.19%	53.28%	26.8%	
+set_immune
+set_riposte
+c2124
+c2001
+c1168
+c2001
+c2124
+c2113
+c1022Ruele of Light	13.47%	54.11%	20.16%	
+set_max_hp
+set_speed
+c2001
+c2124
+c2113
+c2124
+c2001
+c1168
+c5072Swift Flagbearer Sigret	13.25%	52.15%	18.51%	
+set_acc
+set_speed
+c2124
+c2001
+c2113
+c2001
+c2124
+c1168
+c2066New Moon Luna	12.28%	50.54%	28.13%	
+set_immune
+set_speed
+c2124
+c2113
+c2001
+c2001
+c2124
+c1168
+c6024Monarch of the Sword Iseria	12.23%	52.57%	19.98%	
+set_chase
+set_counter
+c1104
+c2124
+c2001
+c2001
+c2124
+c2113
+c2049Maid Chloe	9.41%	54.41%	15.59%	
+set_max_hp
+set_speed
+c1168
+c2124
+c2001
+c2124
+c2001
+c2113
+c2103Spirit Eye Celine	9.41%	47.88%	17.61%	
+set_penetrate
+set_speed
+c2001
+c2124
+c2113
+c2124
+c1168
+c2076
+c6050Witch of the Mere Tenebria	9.09%	51.52%	28.47%	
+set_acc
+set_speed
+c2124
+c2113
+c2001
+c2001
+c1168
+c2124
+c1178Hecate	8.83%	40.77%	20.4%	
+set_immune
+set_opener
+c6005
+c2001
+c2076
+c2124
+c1168
+c2113
+c1153Harsetti	8.74%	52.85%	18.74%	
+set_max_hp
+set_scar
+c1168
+c2001
+c2124
+c2001
+c2124
+c2113
+c2112Sea Phantom Politis	8.35%	49.79%	10.01%	
+set_acc
+set_speed
+c2124
+c2001
+c1168
+c2001
+c2076
+c2124
+c5110Afternoon Soak Flan	7.65%	49.76%	28.42%	
+set_penetrate
+set_speed
+c2001
+c1168
+c2124
+c1153
+c2001
+c2124
+c1104Mort	6.17%	57.43%	47.35%	
+set_cri_dmg
+set_max_hp
+c6024
+c2001
+c2124
+c2124
+c2001
+c1168
+c2101Urban Shadow Choux	6.1%	48.42%	14.47%	
+set_chase
+set_speed
+c2001
+c2113
+c2124
+c2124
+c2131
+c2113
+c2079Lionheart Cermia	6.05%	49.33%	32.51%	
+set_cri
+set_cri_dmg
+c2124
+c1176
+c2001
+c2124
+c2113
+c2001
+c2024Briar Witch Iseria	5.8%	51.3%	12.69%	
+set_cri
+set_speed
+c2001
+c2124
+c2131
+c1172
+c2076
+c6005
+c5111Festive Eda	5.62%	50.14%	25.16%	
+set_max_hp
+set_speed
+c1172
+c2124
+c2001
+c2001
+c2124
+c2113
+c2129Disciplinary Prefect Aria	5.29%	50.29%	17.89%	
+set_cri_dmg
+set_penetrate
+c2001
+c2076
+c1172
+c2124
+c2113
+c2131
+c1143Amid	5.25%	49.93%	10.27%	
+set_acc
+set_speed
+c2124
+c2001
+c1117
+c1172
+c1168
+c1034
+c2070Last Rider Krau	5.07%	52.9%	13.61%	
+set_max_hp
+set_speed
+c1117
+c1172
+c2001
+c2124
+c2113
+c2001
+c1150Veronica	4.43%	45.23%	21.21%	
+set_acc
+set_speed
+c2076
+c1172
+c2001
+c1168
+c2001
+c2124
+c2002Fallen Cecilia	4.27%	52.64%	13.19%	
+set_immune
+set_speed
+c1168
+c2124
+c2001
+c2124
+c2001
+c2131
+c6037Moon Bunny Dominiel	3.93%	51.73%	21.42%	
+set_immune
+set_speed
+c1168
+c2001
+c2124
+c2124
+c2001
+c2113
+c2125Lone Wolf Peira	3.69%	48.99%	11.83%	
+set_acc
+set_speed
+c2001
+c2124
+c2113
+c2124
+c2001
+c1172
+c2127Successor Taeyou	3.61%	45.6%	43.16%	
+set_cri_dmg
+set_penetrate
+c2001
+c2124
+c1168
+c1133
+c2076
+c1172
+c5175Aram	3.14%	48.99%	14.63%	
+set_max_hp
+set_speed
+c1153
+c2001
+c2124
+c2001
+c1168
+c2124
+c1034Straze	3.12%	50.5%	35.29%	
+set_speed
+set_torrent
+c2124
+c2001
+c1117
+c1143
+c1172
+c6005
+c1118Ran	2.92%	49.11%	3.74%	
+set_cri
+set_speed
+c2001
+c6005
+c2124
+c2076
+c1172
+c1133
+c6017Infinite Horizon Achates	2.79%	47.61%	24.29%	
+set_res
+set_speed
+c2066
+c2001
+c1172
+c2124
+c2001
+c2113
+c2132Dragon King Sharun	2.77%	50.3%	26.05%	
+set_acc
+set_speed
+c5072
+c2001
+c2124
+c1168
+c2124
+c2001
+c1177Saria	2.52%	49.59%	34.3%	
+set_speed
+set_torrent
+c2124
+c2001
+c2131
+c1168
+c1172
+c2076
+c1103Celine	2.49%	45.65%	27.16%	
+set_cri_dmg
+set_penetrate
+c2001
+c2112
+c1168
+c2124
+c2001
+c2113
+c2090Death Dealer Ray	2.35%	47.57%	32.04%	
+set_acc
+set_speed
+c2113
+c2124
+c2001
+c2001
+c2124
+c1168
+c2048Silver Blade Aramintha	2.23%	49.94%	31.8%	
+set_acc
+set_speed
+c2124
+c1172
+c2001
+c1133
+c2001
+c2076
+c1055Jenua	2.01%	49.82%	21.8%	
+set_speed
+set_torrent
+c2124
+c2001
+c1168
+c2112
+c2001
+c2113
+c2019Apocalypse Ravi	2.01%	46.85%	13.7%	
+set_cri_dmg
+set_penetrate
+c2001
+c2113
+c2124
+c2124
+c2131
+c2113
+c5128Argent Waves Hwayoung	1.98%	47.07%	31%	
+set_cri_dmg
+set_torrent
+c2124
+c2001
+c2113
+c1172
+c2066
+c1168
+c2023Twisted Eidolon Kayron	1.91%	49.11%	22.5%	
+set_res
+set_vampire
+c2124
+c1172
+c2001
+c2001
+c2113
+c2124
+c1109Landy	1.91%	46.83%	18.64%	
+set_speed
+set_torrent
+c2124
+c2113
+c2001
+c2001
+c2113
+c2124
+c4158Inheritor Amiki	1.9%	52.89%	33.98%	
+set_counter
+set_res
+c1172
+c2076
+c1133
+c2001
+c2124
+c2113
+c2106Dragon Bride Senya	1.76%	48.56%	16.19%	
+set_max_hp
+set_speed
+c2001
+c1172
+c2124
+c2001
+c2124
+c2113
+c1162Young Senya	1.73%	48.5%	25.22%	
+set_max_hp
+set_speed
+c1153
+c2001
+c5110
+c1168
+c1172
+c2001
+c2080Commander Pavel	1.55%	53.04%	26.91%	
+set_cri_dmg
+set_torrent
+c2124
+c2001
+c1168
+c1172
+c2024
+c2076
+c2016Abyssal Yufine	1.45%	50.05%	18.49%	
+set_immune
+set_vampire
+c1133
+c1172
+c2001
+c2124
+c2001
+c1168
+c1179Aki	1.44%	46.15%	28.83%	
+set_speed
+set_torrent
+c2124
+c2113
+c1117
+c2001
+c2076
+c2124
+c2069Eternal Wanderer Ludwig	1.4%	49.85%	29.65%	
+set_speed
+set_torrent
+c2001
+c2124
+c1168
+c1133
+c2076
+c1172
+c1007Vildred	1.4%	49.54%	34.6%	
+set_cri
+set_speed
+c1168
+c2124
+c2001
+c1172
+c2024
+c2076
+c1131Yulha	1.4%	48.42%	21.32%	
+set_max_hp
+set_max_hp
+set_max_hp
+c1172
+c6005
+c2001
+c2001
+c2124
+c2113
+c2102Requiem Roana	1.25%	42.51%	32.88%	
+set_acc
+set_acc
+set_acc
+c2124
+c1168
+c2001
+c1133
+c2076
+c2001
+c1112Politis	1.2%	49.14%	29.97%	
+set_cri
+set_speed
+c1172
+c1143
+c2076
+c2124
+c1168
+c2001
+c2011Blood Blade Karin	1.18%	47.98%	17.09%	
+set_cri_dmg
+set_torrent
+c2124
+c2001
+c1168
+c2001
+c6005
+c2124
+c2165New Kid Adin	1.18%	46.18%	19.97%	
+set_cri_dmg
+set_penetrate
+c2001
+c1153
+c2113
+c2124
+c2001
+c1176
+c1076Diene	1.1%	44.93%	13.84%	
+set_res
+set_speed
+c2001
+c2113
+c2124
+c2124
+c1117
+c1168
+c2089Conqueror Lilias	1.06%	47.53%	7.91%	
+set_acc
+set_speed
+c2124
+c2001
+c2131
+c5128
+c1172
+c2124
+c1091Elena	1.01%	48.02%	28.26%	
+set_res
+set_speed
+c2024
+c1172
+c6005
+c2124
+c2001
+c2131
+c2095Designer Lilibet	0.99%	47.51%	29.84%	
+set_cri
+set_speed
+c1172
+c2024
+c2076
+c2124
+c2001
+c2113
+c2126Hellion Lua	0.92%	53.58%	15.49%	
+set_acc
+set_speed
+c2124
+c2001
+c2113
+c2001
+c2076
+c1117
+c5009Summer Break Charlotte	0.87%	43.99%	18.14%	
+set_speed
+set_torrent
+c2001
+c2124
+c1168
+c1133
+c2076
+c1172
+c4123Silvertide Christy	0.8%	47.18%	24.32%	
+set_res
+set_res
+set_res
+c2001
+c5072
+c2124
+c2124
+c2103
+c6024
+c2088Sylvan Sage Vivian	0.78%	46.69%	15.61%	
+set_cri_dmg
+set_torrent
+c2001
+c2124
+c2113
+c2124
+c2001
+c2113
+c2008Crimson Armin	0.76%	50.75%	8.03%	
+set_immune
+set_shield
+c2001
+c2113
+c2124
+c2124
+c2001
+c2049
+c6020Westwind Executioner Schuri	0.72%	48.34%	29.4%	
+set_acc
+set_speed
+c1168
+c2124
+c1172
+c2024
+c2076
+c1172
+c1046Lidica	0.68%	45.68%	18.58%	
+set_acc
+set_speed
+c2001
+c2124
+c1168
+c2001
+c1172
+c2124
+c1173Fern	0.66%	47.18%	15.45%	
+set_penetrate
+set_riposte
+c2124
+c2001
+c2113
+c2124
+c2001
+c2113
+c2111Solitaria of the Snow	0.64%	47.7%	39.51%	
+set_acc
+set_speed
+c5110
+c2124
+c1153
+c1168
+c2001
+c2113
+c2109Navy Captain Landy	0.64%	41.43%	15.95%	
+set_counter
+set_cri
+c2001
+c2124
+c1168
+c2124
+c2113
+c2001
+c2007Arbiter Vildred	0.63%	48.1%	20.67%	
+set_torrent
+set_torrent
+set_torrent
+c1168
+c2124
+c2001
+c2001
+c2124
+c1172
+c1038Sez	0.62%	47.07%	21.61%	
+set_cri_dmg
+set_penetrate
+c2001
+c2131
+c2124
+c1133
+c2076
+c2024
+c1180Ruiza	0.59%	37.86%	13.42%	
+set_acc
+set_speed
+c2124
+c2001
+c2113
+c2001
+c2124
+c1168
+c1163Frida	0.54%	43.12%	15.27%	
+set_res
+set_speed
+c1117
+c2124
+c2001
+c2076
+c1133
+c2066
+c2073Mediator Kawerik	0.52%	46.15%	15.36%	
+set_max_hp
+set_speed
+c2001
+c2066
+c2124
+c2124
+c2113
+c2001
+c2110Pirate Captain Flan	0.52%	46.08%	26.38%	
+set_acc
+set_speed
+c2124
+c1172
+c2001
+c1133
+c2001
+c2124
+c1171Tori	0.51%	42.89%	14.2%	
+set_immune
+set_penetrate
+set_torrent
+c2001
+c2113
+c2124
+c2124
+c2001
+c2113
+c5089Midnight Gala Lilias	0.51%	41.37%	20%	
+set_speed
+set_torrent
+c2001
+c2124
+c2131
+c1168
+c2124
+c2113
+c2015Sage Baal & Sezan	0.47%	51.19%	30.4%	
+set_max_hp
+set_speed
+c1172
+c1133
+c1168
+c2124
+c2001
+c1117
+c2004Wanderer Silk	0.47%	47.57%	42.48%	
+set_acc
+set_speed
+c1007
+c1168
+c1172
+c1168
+c2076
+c1172
+c1142Eligos	0.47%	39.52%	11.53%	
+set_cri
+set_speed
+c2001
+c1168
+c2113
+c1133
+c1172
+c1168
+c5004Archdemon's Shadow	0.45%	43.19%	12.73%	
+set_acc
+set_speed
+c2113
+c2001
+c2124
+c2124
+c2001
+c2113
+c2012Dark Corvus	0.43%	42.29%	26.97%	
+set_max_hp
+set_opener
+c2001
+c2124
+c1022
+c2113
+c2001
+c2124
+c5024Summertime Iseria	0.4%	50.09%	22.69%	
+set_acc
+set_speed
+c2001
+c2124
+c1172
+c1133
+c2024
+c1118
+c2091Astromancer Elena	0.4%	45.17%	27.68%	
+set_cri
+set_speed
+c6024
+c2124
+c2001
+c1172
+c2024
+c1168
+c5046Blooming Lidica	0.39%	45.91%	24.34%	
+set_acc
+set_speed
+c2001
+c1168
+c2124
+c1133
+c2076
+c2001
+c4144Savior Adin	0.38%	43.06%	11.26%	
+set_penetrate
+set_speed
+c2001
+c2124
+c2131
+c2124
+c2001
+c1168
+c1014Cidd	0.35%	47.49%	20.59%	
+set_penetrate
+set_speed
+c1168
+c2001
+c2076
+c1168
+c1172
+c1007
+c1151Nahkwol	0.33%	41.92%	26%	
+set_acc
+set_speed
+c6024
+c2113
+c2124
+c2001
+c2124
+c1168
+c1159Laia	0.31%	42.88%	16.79%	
+set_max_hp
+set_speed
+c2124
+c2001
+c2066
+c2113
+c2124
+c2001
+c1020Schuri	0.3%	51.74%	33.19%	
+set_cri
+set_speed
+c1168
+c1007
+c2124
+c1172
+c1007
+c2024
+c2072Operator Sigret	0.3%	43.78%	21.56%	
+set_cri
+set_speed
+c2124
+c2002
+c2001
+c1168
+c1172
+c6005
+c6003Wretched Rose	0.29%	45.39%	7.35%	
+set_immune
+set_shield
+c2001
+c2131
+c2124
+c2124
+c2113
+c2001
+c1148Elvira	0.27%	50.12%	47.06%	
+set_res
+set_speed
+c1133
+c2127
+c1172
+c2124
+c2001
+c1168
+c1147Fumyr	0.27%	46.29%	20.56%	
+set_acc
+set_speed
+c2124
+c2001
+c2113
+c1172
+c1168
+c2076
+c2062Sinful Angelica	0.27%	41.69%	14.09%	
+set_res
+set_speed
+c1022
+c2001
+c2124
+c6005
+c1168
+c2001
+c5070Guard Captain Krau	0.25%	49.5%	12.5%	
+set_def
+set_speed
+c2124
+c2001
+c2128
+c2113
+c2001
+c2124
+c5082Ocean Breeze Luluca	0.25%	48.71%	21.72%	
+set_res
+set_speed
+c1143
+c1172
+c2001
+c2124
+c2113
+c2001
+c2099Architect Laika	0.25%	43.04%	29.15%	
+set_cri
+set_speed
+c2001
+c1176
+c2131
+c2124
+c1168
+c1172
+c5016Holiday Yufine	0.22%	48.14%	15.97%	
+set_acc
+set_speed
+c1133
+c2001
+c2131
+c2024
+c1038
+c2076
+c2006Judge Kise	0.2%	51.79%	25.12%	
+set_speed
+set_torrent
+c2124
+c2113
+c2001
+c1143
+c1172
+c1168
+c1102Roana	0.19%	50.12%	21.8%	
+set_max_hp
+set_max_hp
+set_max_hp
+c2124
+c1176
+c2113
+c2124
+c2113
+c2001
+c2082Top Model Luluca	0.19%	43.26%	21.41%	
+set_penetrate
+set_speed
+c2001
+c2124
+c2131
+c2112
+c1172
+c1168
+c2039Blood Moon Haste	0.19%	48.27%	13.27%	
+set_counter
+set_max_hp
+c2124
+c2001
+c1168
+c2113
+c2001
+c2124
+c5071Seaside Bellona	0.18%	45.69%	14.65%	
+set_immune
+set_vampire
+c2124
+c1117
+c2113
+c2113
+c2124
+c2001
+c1023Kayron	0.18%	42.7%	15.64%	
+set_immune
+set_riposte
+c1168
+c6005
+c1172
+c5072
+c5110
+c1176
+c1141Beehoo	0.17%	48%	20.71%	
+set_acc
+set_speed
+c2124
+c1172
+c2001
+c2001
+c2124
+c2113
+c1130Jack-O'	0.17%	42.09%	18.12%	
+set_penetrate
+set_speed
+c1168
+c2131
+c2001
+c1133
+c2124
+c2127
+c1060Schniel	0.16%	59.58%	50.42%	
+set_max_hp
+set_speed
+c2090
+c2001
+c2124
+c2113
+c2124
+c2001
+c2020Watcher Schuri	0.16%	45.57%	22.96%	
+set_cri
+set_speed
+c1168
+c1007
+c2001
+c1168
+c2076
+c1172
+c1134Edward Elric	0.16%	43.04%	27.38%	
+set_penetrate
+set_scar
+c2024
+c1172
+c6005
+c2124
+c2001
+c1168
+c2009Little Queen Charlotte	0.16%	42.94%	16.01%	
+set_cri_dmg
+set_penetrate
+c2131
+c2128
+c2001
+c2124
+c2001
+c2113
+c2074Remnant Violet	0.16%	42.94%	9.15%	
+set_penetrate
+set_vampire
+c2001
+c2124
+c2113
+c2124
+c2001
+c1176
+c2053Desert Jewel Basar	0.15%	46.09%	15.02%	
+set_res
+set_speed
+c2001
+c2124
+c2002
+c2124
+c2113
+c2001
+c1128Hwayoung	0.15%	41.66%	10.65%	
+set_immune
+set_speed
+c2124
+c2001
+c2131
+c5110
+c2113
+c1150
+c1016Yufine	0.15%	40.38%	13.71%	
+set_penetrate
+set_speed
+c2001
+c1168
+c2131
+c1133
+c1172
+c1118
+c2047Martial Artist Ken	0.14%	43.63%	18.84%	
+set_cri_dmg
+set_penetrate
+c2001
+c2124
+c1150
+c2076
+c2124
+c2001
+c2013Assassin Cartuja	0.12%	48.93%	17.62%	
+set_max_hp
+set_riposte
+c2124
+c1168
+c6005
+c1176
+c5072
+c2131
+c2071Lone Crescent Bellona	0.12%	43.89%	12.49%	
+set_cri_dmg
+set_penetrate
+c1117
+c2001
+c2113
+c2124
+c2113
+c2001
+c2042Ambitious Tywin	0.12%	42.35%	9.88%	
+set_max_hp
+set_speed
+c1172
+c2024
+c6005
+c2124
+c2001
+c2113
+c6011Last Piece Karin	0.12%	38.66%	26.19%	
+set_penetrate
+set_speed
+c6005
+c1176
+c2001
+c2124
+c1168
+c2001
+c1144Abigail	0.11%	39.42%	17.28%	
+set_max_hp
+set_speed
+c2124
+c2001
+c1168
+c2103
+c2124
+c2001
+c1170Fenne	0.11%	39.38%	9.07%	
+set_cri_dmg
+set_penetrate
+c2101
+c2124
+c2001
+c2124
+c2113
+c2001
+c5001Adventurer Ras	0.11%	46.21%	4.6%	
+set_immune
+set_shield
+c2001
+c2124
+c2113
+c2124
+c1171
+c2001
+c1119Zahhak	0.1%	44.97%	17.54%	
+set_penetrate
+set_speed
+c2001
+c1176
+c2131
+c2124
+c1172
+c1168
+c2027Closer Charles	0.1%	41.46%	11.36%	
+set_cri_dmg
+set_torrent
+c2124
+c2001
+c1117
+c1133
+c1172
+c2076
+c1099Command Model Laika	0.1%	38.07%	4.12%	
+set_acc
+set_speed
+c2001
+c2124
+c2131
+c1034
+c5072
+c1168
+c1101Choux	0.1%	33.8%	0.62%	
+set_immune
+set_speed
+c2001
+c6005
+c2113
+c1168
+c1153
+c2001
+c2037Challenger Dominiel	0.09%	45.45%	10.87%	
+set_penetrate
+set_speed
+c2124
+c2001
+c1168
+c1118
+c1172
+c1133
+c5149Lethe	0.09%	44.23%	11.97%	
+set_max_hp
+set_speed
+c2001
+c1117
+c2124
+c2076
+c2131
+c2001
+c4035Commander Lorina	0.09%	35%	5.3%	
+set_counter
+set_res
+c2001
+c2113
+c2124
+c2124
+c2113
+c1117
+c6014Wandering Prince Cidd	0.08%	51.16%	14.18%	
+set_acc
+set_speed
+c2124
+c1172
+c6005
+c1118
+c2076
+c1133
+c1129Aria	0.08%	40.33%	15.4%	
+set_res
+set_vampire
+c2124
+c2113
+c2001
+c2001
+c2113
+c6005
+c2022Destina	0.08%	47.58%	8.78%	
+set_res
+set_speed
+c2001
+c2131
+c2124
+c2124
+c2113
+c1153
+c1146Benimaru	0.08%	45.89%	22.52%	
+set_cri_dmg
+set_penetrate
+c1168
+c1162
+c1172
+c1153
+c2124
+c2001
+c1154Byblis	0.08%	38.63%	17.07%	
+set_acc
+set_speed
+c6024
+c2001
+c2124
+c2124
+c2113
+c1168
+c2043Benevolent Romann	0.08%	37.69%	15.46%	
+set_acc
+set_speed
+c1133
+c2076
+c2001
+c2001
+c1168
+c1172
+c1067Tamarinne	0.08%	37.19%	5.31%	
+set_immune
+set_opener
+c2124
+c2001
+c2131
+c2113
+c2124
+c2001
+c1095Lilibet	0.07%	44.49%	16.91%	
+set_cri
+set_speed
+c2001
+c2124
+c1117
+c1168
+c6005
+c2113
+c1019Ravi	0.07%	43.55%	4.55%	
+set_counter
+set_penetrate
+c1168
+c2113
+c6005
+c2131
+c1117
+c2129
+c1006Kise	0.07%	41.19%	23.22%	
+set_speed
+set_torrent
+c2124
+c1117
+c2001
+c1143
+c1172
+c1034
+c1089Lilias	0.07%	37.94%	11.22%	
+set_acc
+set_speed
+c5072
+c2001
+c2124
+c2124
+c2001
+c2113
+c2038Specimen Sez	0.06%	43.81%	10.29%	
+set_cri
+set_speed
+c2001
+c2124
+c2131
+c2001
+c2124
+c1022
+c1070Krau	0.06%	42.89%	9.23%	
+set_max_hp
+set_shield
+c2001
+c2124
+c1172
+c2001
+c2124
+c2113
+c1100Alencia	0.06%	42.23%	10.68%	
+set_penetrate
+set_scar
+c2001
+c2113
+c2124
+c1162
+c2131
+c2124
+c1122Milim	0.06%	41.16%	27.42%	
+set_penetrate
+set_speed
+c2001
+c1109
+c2113
+c2124
+c2049
+c2113
+c1169Robin	0.06%	40.43%	14.88%	
+set_acc
+set_speed
+c1172
+c2124
+c2001
+c1168
+c1177
+c2001
+c3064Celeste	0.06%	35.18%	12.6%	
+set_acc
+set_speed
+c1168
+c2124
+c2001
+c1172
+c1177
+c1168
+c2050Specter Tenebria	0.06%	34.43%	4.91%	
+set_cri_dmg
+set_penetrate
+c2124
+c2001
+c2113
+c2124
+c2113
+c2076
+c6062Angel of Light Angelica	0.05%	46.33%	22%	
+set_acc
+set_speed
+c1172
+c2076
+c2124
+c2124
+c2001
+c1168
+c6065Sealed Eye Surin	0.05%	40.95%	10.9%	
+set_acc
+set_speed
+c2124
+c2001
+c2113
+c2126
+c2112
+c1168
+c1121Rimuru	0.05%	38.48%	16.73%	
+set_immune
+set_speed
+c1172
+c2076
+c2124
+c2124
+c2001
+c1168
+c1161Immortal Wukong	0.05%	36.59%	12.83%	
+set_counter
+set_torrent
+c2113
+c2124
+c1034
+c2124
+c2001
+c2113
+c4051Researcher Carrot	0.05%	45.03%	12.13%	
+set_acc
+set_speed
+c1172
+c1168
+c1117
+c2124
+c2001
+c2113
+c1111Eda	0.05%	42.43%	11.52%	
+set_cri
+set_speed
+c2124
+c2001
+c2131
+c1118
+c2066
+c1143
+c3135Hasol	0.05%	41.47%	13.65%	
+set_chase
+set_counter
+c1176
+c6024
+c2001
+c2124
+c2113
+c2001
+c1125Peira	0.05%	40.64%	4.26%	
+set_acc
+set_speed
+c2131
+c2124
+c1172
+c2001
+c2124
+c6005
+c1047Ken	0.04%	46.41%	0.24%	
+set_immune
+set_speed
+c2001
+c6005
+c1172
+c1168
+c2076
+c1133
+c1065Surin	0.04%	42.73%	33.16%	
+set_penetrate
+set_speed
+c1168
+c1007
+c2004
+c1172
+c1168
+c1007
+c1096Melissa	0.04%	40.13%	14.8%	
+set_penetrate
+set_speed
+c2001
+c2124
+c2131
+c2124
+c6005
+c1117
+c2046Faithless Lidica	0.04%	38.71%	8.05%	
+set_acc
+set_speed
+c2131
+c2124
+c2001
+c2001
+c6005
+c2124
+c1158Fenris	0.04%	38.42%	15.99%	
+set_speed
+set_torrent
+c6024
+c2001
+c2131
+c1168
+c1177
+c2001
+c5050Fairytale Tenebria	0.04%	38.3%	19.39%	
+set_acc
+set_speed
+c2124
+c2113
+c2001
+c2001
+c1117
+c1168
+c1156Albedo	0.04%	50.84%	12.6%	
+set_immune
+set_shield
+c1172
+c2124
+c2113
+c2001
+c2124
+c1162
+c1132Sharun	0.04%	38.76%	14.63%	
+set_acc
+set_speed
+c2124
+c2113
+c2001
+c2001
+c2124
+c2113
+c1008Armin	0.03%	51.96%	9.2%	
+set_immune
+set_shield
+c2124
+c2103
+c6005
+c2001
+c2113
+c2128
+c1137ae-KARINA	0.03%	41.35%	8.79%	
+set_chase
+set_def
+set_immune
+c2124
+c1172
+c2001
+c2113
+c2124
+c2049
+c1157Shalltear	0.03%	40.93%	17.58%	
+set_penetrate
+set_speed
+c1176
+c2113
+c2001
+c2001
+c2124
+c1153
+c4004Unbound Knight Arowell	0.03%	37.9%	9.62%	
+set_max_hp
+set_speed
+c2113
+c2001
+c2124
+c2124
+c1117
+c2049
+c1127Taeyou	0.03%	34.12%	17.17%	
+set_penetrate
+set_speed
+c2001
+c2124
+c1172
+c2001
+c2124
+c2112
+c1139ae-WINTER	0.02%	36%	10.19%	
+set_acc
+set_speed
+c2001
+c1172
+c2113
+c2124
+c2001
+c2113
+c1086Khawana	0.02%	28.13%	11.02%	
+set_speed
+set_torrent
+c2124
+c2131
+c1168
+c1176
+c5111
+c5110
+c4103Vigilante Leader Glenn	0.02%	0%	12.99%	
+set_penetrate
+set_speed
+c2001
+c1133
+c2131
+c1177
+c5024
+c5016
+c2003Shadow Rose	0.02%	49.72%	10.2%	
+set_acc
+set_speed
+c1133
+c2001
+c1168
+c2024
+c1038
+c5016
+c1126Lua	0.02%	47.54%	16.58%	
+set_acc
+set_speed
+c2113
+c1168
+c2124
+c2001
+c2124
+c1117
+c2031Auxiliary Lots	0.02%	44.3%	16.97%	
+set_acc
+set_speed
+c2124
+c2131
+c2113
+c1096
+c1034
+c1143
+c2085Inferno Khawazu	0.02%	36.3%	18.97%	
+set_immune
+set_speed
+c1172
+c1117
+c2001
+c2001
+c2124
+c2113
+c1110Flan	0.02%	35.24%	16.38%	
+set_acc
+set_speed
+c2001
+c2124
+c2113
+c1172
+c2066
+c2112
+c2036Troublemaker Crozet	0.01%	41.27%	10.08%	
+set_max_hp
+set_speed
+c1133
+c6005
+c1172
+c2001
+c2113
+c2124
+c1080Pavel	0.01%	35.71%	10.83%	
+set_cri
+set_speed
+c2001
+c2124
+c2076
+c2112
+c1162
+c1177
+c4042Angelic Montmorancy	0.01%	29.06%	10.77%	
+set_res
+set_speed
+c5072
+c2131
+c2124
+c2124
+c2001
+c6024
+c1106Senya	0.01%	26.67%	12.3%	
+set_immune
+set_speed
+c2124
+c1172
+c2113
+c2001
+c2124
+c2113
+c1160Birgitta	0.01%	22.41%	9.63%	
+set_acc
+set_speed
+c6024
+c2001
+c1022
+c2124
+c1133
+c2001
