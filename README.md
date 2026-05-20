@@ -1,7 +1,7 @@
 # Duel-of-things
 Compare two images trivia. Singleplayer, Multiplayer, Leaderboards.
 
-Includes parsers for 12 different games. 
+Includes parsers for 12 different games. Movies, videogames, cities, cars, anime characters etc.
 
 ## Setup
 
