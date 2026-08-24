@@ -3,6 +3,8 @@ Compare two images trivia. Singleplayer, Multiplayer, Leaderboards.
 
 Includes parsers for 12 different games. Movies, videogames, cities, cars, anime characters etc.
 
+Examples: What of this 2 videogames has a better metacritic score?
+
 ## Setup
 
 ### 1. Install Dependencies
